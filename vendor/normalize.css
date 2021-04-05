@@ -9,7 +9,7 @@
  */
 
 
-body, div, img, section, main, h1, p {
+body, div, img, section, main, h1, p, h2, ul, li {
     outline-width: 1px;
     outline-style: solid;
     outline-color: red;
