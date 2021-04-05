@@ -9,7 +9,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .place__website {    /*нужно чтоб был одинаковый с брейкпоинтом плэйс в одну колонку, поэтому такое*/
+    .place__website {
         display: none;
     }
 }

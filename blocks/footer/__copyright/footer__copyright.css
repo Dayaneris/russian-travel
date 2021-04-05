@@ -17,27 +17,3 @@
         line-height: 14px;
     }
 }
-
-
-
-/*@media screen and (max-width: 700px) {*/
-/*    .footer__copyright {*/
-/*        text-align: start;*/
-/*        align-self: flex-start;*/
-/*        margin-top: 48px;*/
-/*        line-height: 14px;*/
-/*    }*/
-/*}*/
-
-/*!*@media screen and (max-width: 950px){*!*/
-/*!*    .footer__copyright {*!*/
-/*!*        margin-top: 48px;*!*/
-/*!*        *!*/
-/*!*    }*!*/
-/*!*}*!*/
-
-/*@media screen and (max-width: 950px) {*/
-/*    .footer__copyright {*/
-/*        align-self: center;*/
-/*    }*/
-/*}*/
