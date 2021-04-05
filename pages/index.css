@@ -36,3 +36,9 @@
 @import url(../blocks/footer/__nav/footer__nav.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+
+/*body, div, img, section, main, h1, p, h2, ul, li {*/
+/*    outline-width: 1px;*/
+/*    outline-style: solid;*/
+/*    outline-color: red;*/
+/*}*/
