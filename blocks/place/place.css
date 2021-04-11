@@ -1,9 +1,8 @@
 .place {
-    max-width: 1184px;
+    max-width: 984px;
     margin: 0;
     padding-bottom: 80px;
     display: grid;
-
     grid-gap: 48px 40px;
     grid-template-areas:
         'title website'
