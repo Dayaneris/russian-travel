@@ -6,10 +6,17 @@
     margin: 0;
     grid-area: website;
     max-width: 456px;
+    align-self: end;
 }
 
 @media screen and (max-width: 767px) {
     .place__website {
-        display: none;
+        max-width: 352px;
+    }
+}
+
+@media (max-width: 320px) {
+    .place__website {
+        margin-left: 16px;
     }
 }
