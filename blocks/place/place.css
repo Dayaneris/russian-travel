@@ -28,6 +28,7 @@
         grid-template-columns: 100%;
         grid-template-areas:
             'title'
+            'website'
             'image'
             'text';
         grid-gap: 32px 0;
