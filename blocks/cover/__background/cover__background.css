@@ -45,7 +45,6 @@
 
 @media all and (max-width: 355px) {
     .cover__background {
-        width: 320px;
         width: 100%;
         min-height: 200px;
     }
